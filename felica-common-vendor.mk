@@ -19,6 +19,7 @@ PRODUCT_PACKAGES += \
     MobileFeliCaClient \
     MobileFeliCaMenuApp \
     MobileFeliCaSettingApp \
-    MobileFeliCaWebPluginBoot
+    MobileFeliCaWebPluginBoot \
+    libcordon
 
 $(call inherit-product, vendor/samsung/felica-common/felica-common-vendor-blobs.mk)
