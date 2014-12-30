@@ -13,13 +13,6 @@
 # limitations under the License.
 
 PRODUCT_COPY_FILES += \
-	vendor/samsung/felica-common/proprietary/app/FeliCaLock.apk:system/app/FeliCaLock.apk \
-	vendor/samsung/felica-common/proprietary/app/FeliCaRemoteLock.apk:system/app/FeliCaRemoteLock.apk \
-	vendor/samsung/felica-common/proprietary/app/FeliCaTest.apk:system/app/FeliCaTest.apk \
-	vendor/samsung/felica-common/proprietary/app/MobileFeliCaClient.apk:system/app/MobileFeliCaClient.apk \
-	vendor/samsung/felica-common/proprietary/app/MobileFeliCaMenuApp.apk:system/app/MobileFeliCaMenuApp.apk \
-	vendor/samsung/felica-common/proprietary/app/MobileFeliCaSettingApp.apk:system/app/MobileFeliCaSettingApp.apk \
-	vendor/samsung/felica-common/proprietary/app/MobileFeliCaWebPluginBoot.apk:system/app/MobileFeliCaWebPluginBoot.apk \
 	vendor/samsung/felica-common/proprietary/bin/mfdp:system/bin/mfdp \
 	vendor/samsung/felica-common/proprietary/bin/mfsc:system/bin/mfsc \
 	vendor/samsung/felica-common/proprietary/etc/felica/No_ticket.png:system/etc/felica/No_ticket.png \

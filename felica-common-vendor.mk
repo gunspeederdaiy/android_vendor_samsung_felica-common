@@ -12,4 +12,13 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+PRODUCT_PACKAGES += \
+    FeliCaLock \
+    FeliCaRemoteLock \
+    FeliCaTest \
+    MobileFeliCaClient \
+    MobileFeliCaMenuApp \
+    MobileFeliCaSettingApp \
+    MobileFeliCaWebPluginBoot
+
 $(call inherit-product, vendor/samsung/felica-common/felica-common-vendor-blobs.mk)
